@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="dockerfile" type="Dockerfile" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="6dd96eae68fe1b1dc3bb4b6264b21c06d071a3a8" type="PLAIN_TEXT" />
+      <mapping ext="stub" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
