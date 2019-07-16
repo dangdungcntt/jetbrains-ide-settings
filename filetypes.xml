@@ -1,7 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="mustache" type="XHTML" />
+      <mapping pattern=".mustache" type="Handlebars/Mustache" />
+      <removed_mapping ext="mustache" approved="true" type="Handlebars/Mustache" />
+      <removed_mapping pattern=".mustache" approved="true" type="HTML" />
+      <removed_mapping ext="mustache" approved="true" type="XHTML" />
     </extensionMap>
   </component>
 </application>
