@@ -3,15 +3,15 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/spring-guides/gs-rest-service.git" />
+          <option name="url" value="git@git.eway.vn:x10-examples/spring-mongo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/spring-guides/tut-spring-boot-kotlin.git" />
+          <option name="url" value="git@git.eway.vn:x10-commons/spring-commons.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@git.eway.vn:tech-eway/ewaycc-rest.git" />
+          <option name="url" value="git@git.eway.vn:x10-commons/commons-parent-pom.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
@@ -20,6 +20,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/C:\Users\dangd\Desktop\code\IdeaProjects" />
+    <option name="cloneParentDir" value="C:\Users\dangd\Desktop\code\IdeaProjects" />
   </component>
 </application>
