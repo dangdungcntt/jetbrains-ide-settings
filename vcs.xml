@@ -14,6 +14,10 @@
           <option name="url" value="git@git.eway.vn:x10-commons/commons-parent-pom.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:dangdungcntt/groovy-crud-mongodb.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\dangd\Desktop\code\IdeaProjects" />
